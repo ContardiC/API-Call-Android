@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">API-Call-Android</string>
+    <string name="text_view_data">Fetch data from API!</string>
+</resources>
